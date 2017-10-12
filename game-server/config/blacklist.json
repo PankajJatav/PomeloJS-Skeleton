@@ -1,0 +1,12 @@
+{
+    "development":  {
+        "connector": [
+            "192.168.2.195"
+        ]
+    },
+    "production":  {
+        "connector": [
+            "192.168.2.195"
+        ]
+    }    
+}
